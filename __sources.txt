@@ -219,3 +219,15 @@
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/769.ts;streamtype=TSDOWNLOADER&;name=RACINGUK<link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>RACING UK<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/769.ts;streamtype=TSDOWNLOADER&;name=RACINGUK<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CHELSEA TV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/779.ts;streamtype=TSDOWNLOADER&;name=CHELSEATV<link>
+<thumbnail></thumbnail>
+</item>
