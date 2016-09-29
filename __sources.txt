@@ -183,3 +183,9 @@
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13514.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>BOX NATION<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1340.ts;streamtype=TSDOWNLOADER&;name=OXNATION<link>
+<thumbnail></thumbnail>
+</item>
