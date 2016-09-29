@@ -185,8 +185,20 @@
 </item>
 
 <item>
+<title>BOX OFFICE PPV<title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3553.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>BOX NATION<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1340.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BOX NATION<title>
+<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/francesco2/francesco2/8336.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -221,13 +233,17 @@
 </item>
 
 <item>
-<title>RACING UK<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/769.ts;streamtype=TSDOWNLOADER&;name=RACINGUK<link>
+<title>FOX SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3587.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT1<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>CHELSEA TV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/779.ts;streamtype=TSDOWNLOADER&;name=CHELSEATV<link>
+<title>FOX SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3588.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT2<link>
 <thumbnail></thumbnail>
 </item>
+
+
+
+
