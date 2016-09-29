@@ -5,7 +5,7 @@
 <channel>
 <name>SPORTS</name>
 <thumbnail>https://image.winudf.com/149/01fc2b91d906c7c9/screen-2.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/stuartdrew/CHSPORT/master/__sources.txt</externallink>
+<externallink>https://raw.githubusercontent.com/stuartdrew/plugin.video.CHSPORT/master/__sources.txt</externallink>
 <fanart></fanart>
 <info>SimpleKore.com</info>
 </channel>
