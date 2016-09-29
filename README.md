@@ -1,2 +1,2 @@
-# CHSPORT
+# plugin.video.CHSPORT
 
