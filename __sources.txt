@@ -1,0 +1,185 @@
+<item>
+<title>BT SPORT 1 HD 1080P<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19927.ts;streamtype=TSDOWNLOADER&;name=BTSPORT11080p<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13532.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 1 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/15351.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 1 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18974.ts;streamtype=TSDOWNLOADER&;name=BTSPORT1HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 2 HD 1080P<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19928.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS21080p<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13510.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 2 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/15352.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 2 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18975.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS2HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 3 HD 1080P<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/19929.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS31080p<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13542.ts;streamtype=TSDOWNLOADER&;name=BTSPORTS3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 3 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/16990.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS 3 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18976.ts;streamtype=TSDOWNLOADER&;name=BTSPORT3HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS ESPN<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13512.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSESPN<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EXTRA 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13556.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EXTRA 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14437.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA2<link>
+<thumbnail>NICK</thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EXTRA 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14529.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EXTRA 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14434.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA4<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EXTRA 5<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14435.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA5<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS EXTRA 6<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14442.ts;streamtype=TSDOWNLOADER&;name=BTSPORTSEXTRA6<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS MOSAIC<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13503.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BT SPORTS MOSAIC 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/14438.ts;streamtype=TSDOWNLOADER&;name=BTSPORTMOSAIC<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 1 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18263.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13555.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18264.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13560.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 3 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18265.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 3<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13561.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS3<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 4 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18266.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 4<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13538.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS4<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 5 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/18267.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 5<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/redcoat/redcoat/13514.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
+<thumbnail></thumbnail>
+</item>
