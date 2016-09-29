@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.HarrisonsSports"
-       name="[COLOR red][B]HarrisonsSports[/COLOR][/B]"
+<addon id="plugin.video.CHSPORT"
+       name="[COLOR red][B]CHSPORT[/COLOR][/B]"
        version="1.0"
-       provider-name="Harrisons Team">
+       provider-name="CHSPORT Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
