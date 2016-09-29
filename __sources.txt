@@ -213,3 +213,9 @@
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/762.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
 <thumbnail></thumbnail>
 </item>
+
+<item>
+<title>RACING UK<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/769.ts;streamtype=TSDOWNLOADER&;name=RACINGUK<link>
+<thumbnail></thumbnail>
+</item>
