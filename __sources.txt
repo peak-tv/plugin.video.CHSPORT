@@ -244,6 +244,12 @@
 <thumbnail></thumbnail>
 </item>
 
+<item>
+<title>POKER CENTRAL<title>
+<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/norman/norman/8476.ts;streamtype=TSDOWNLOADER&;name=POKERCENTRAL<link>
+<thumbnail></thumbnail>
+</item>
+
 
 
 
