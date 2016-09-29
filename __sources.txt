@@ -186,6 +186,30 @@
 
 <item>
 <title>BOX NATION<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1340.ts;streamtype=TSDOWNLOADER&;name=OXNATION<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1340.ts;streamtype=TSDOWNLOADER&;name=BOXNATION<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>PREMIER SPORT<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1340.ts;streamtype=TSDOWNLOADER&;name=PREMIERSPORT<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EURO SPORT 1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/740.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>EURO SPORT 2<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/741.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT2<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS F1<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/762.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
 <thumbnail></thumbnail>
 </item>
