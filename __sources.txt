@@ -185,20 +185,20 @@
 </item>
 
 <item>
-<title>SKY BOX OFFICE<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3553.ts;streamtype=TSDOWNLOADER&;name=SKYBOXOFFICE<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
 <title>SKY SPORT MIX<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/17283.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTMIX<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>BOX OFFICE PPV<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3553.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTS5<link>
+<title>SKYSP BOXOFF<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/8978.ts;streamtype=TSDOWNLOADER&;name=SKYSP BOXOFF<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>SKYSP BOXOFF<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/18055.ts;streamtype=TSDOWNLOADER&;name=SKYSPBOXOFF<link>
 <thumbnail></thumbnail>
 </item>
 
