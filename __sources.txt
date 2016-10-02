@@ -221,6 +221,12 @@
 </item>
 
 <item>
+<title>ELEVEN SPORT<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/potnoodle/potnoodle/17858.ts;streamtype=TSDOWNLOADER&;name=ELEVENSPORT<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>EURO SPORT 1<title>
 <link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/740.ts;streamtype=TSDOWNLOADER&;name=EUROSPORT1<link>
 <thumbnail></thumbnail>
