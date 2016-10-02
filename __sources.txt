@@ -234,7 +234,7 @@
 
 <item>
 <title>SKY SPORTS F1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/762.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/13507.ts;streamtype=TSDOWNLOADER&;name=SKYSPORTSF1<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -246,25 +246,31 @@
 
 <item>
 <title>FOX SPORT 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3587.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1497.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT1<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>FOX SPORT 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://s1.finoip.com:20000/live/mio/mio/3588.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1489.ts;streamtype=TSDOWNLOADER&;name=FOXSPORT2<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
-<title>POKER CENTRAL<title>
-<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/norman/norman/8476.ts;streamtype=TSDOWNLOADER&;name=POKERCENTRAL<link>
+<title>C MORE FOOTBALL<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/17235.ts;streamtype=TSDOWNLOADER&;name=CMOREFOOTBALL<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>NBC SPORTS 1<title>
-<link>plugin://plugin.video.f4mTester/?url=http://89.163.148.31:8000/live/norman/norman/8476.ts;streamtype=TSDOWNLOADER&;name=NBCSPORTS1<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/17406.ts;streamtype=TSDOWNLOADER&;name=NBCSPORTS1<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>CNBC<title>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/18101.ts;streamtype=TSDOWNLOADER&;name=CNBC<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -288,7 +294,7 @@
 
 <item>
 <title>BEIN Sport 4 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/14792.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS4HD<link>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1858.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS4HD<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -306,13 +312,13 @@
 
 <item>
 <title>STAR SPORTS 2<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/16937.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS2<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/17278.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS2<link>
 <thumbnail></thumbnail>
 </item>
 
 <item>
 <title>STAR SPORTS 4<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/16936.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS4<link>
+<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/lisa/lisa/17276.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS4<link>
 <thumbnail></thumbnail>
 </item>
 
@@ -325,24 +331,6 @@
 <item>
 <title>eir SPORT 2<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/15575.ts;streamtype=TSDOWNLOADER&;name=eirSPORT1<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sportsnet World HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/17693.ts;streamtype=TSDOWNLOADER&;name=SportsnetWorldHD<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sportsnet West HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/17695.ts;streamtype=TSDOWNLOADER&;name=SportsnetWestHD<link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title>Sportsnet 360 HD<title>
-<link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/17697.ts;streamtype=TSDOWNLOADER&;name=Sportsnet360HD<link>
 <thumbnail></thumbnail>
 </item>
 
