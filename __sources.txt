@@ -305,6 +305,18 @@
 </item>
 
 <item>
+<title>BEIN Sport 6 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1856.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS6HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN Sport 7 HD<title>
+<link>plugin://plugin.video.f4mTester/?url=http://globalstream.noip.us:8000/live/redsea/redsea/1855.ts;streamtype=TSDOWNLOADER&;name=BEINSPORTS7HD<link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
 <title>STAR SPORTS 1<title>
 <link>plugin://plugin.video.f4mTester/?url=http://bulkyiptv.com:5750/live/rocky123/rocky123/17279.ts;streamtype=TSDOWNLOADER&;name=STARSPORTS1<link>
 <thumbnail></thumbnail>
